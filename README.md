@@ -1,4 +1,5 @@
 ### Hi there 👋
+![logo](https://github.com/Aroosha-bit/Aroosha-bit/blob/main/githubBanner.png)
 <h1 align="center">Hi 👋, I'm Aroosha Fatima</h1>
 <h3 align="center">A passionate Data Science Engineer from Pakistan</h3>
 
