@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![logo](https://github.com/Aroosha-bit/Aroosha-bit/blob/main/githubBanner.png)
 <h1 align="center">Hi 👋, I'm Aroosha Fatima</h1>
-<h3 align="center">A passionate Data Science Engineer from Pakistan</h3>
+
 
 <img align= "right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
