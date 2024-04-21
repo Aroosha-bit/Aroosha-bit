@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aroosha-bit&label=Profile%20views&color=0e75b6&style=flat" alt="aroosha-bit" /> </p>
 
-- 🌱 I’m currently learning **python , sql**
+- 🌱 I’m currently learning **flutter , python , sql**
 
 - 💬 Ask me about **Flutter , python , Graphic designing**
 
