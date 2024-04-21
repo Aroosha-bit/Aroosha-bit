@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **python , sql**
 
-- 💬 Ask me about **python , Graphic designing**
+- 💬 Ask me about **Flutter , python , Graphic designing**
 
 - 📫 How to reach me **arooshafatima1006@gmail.com**
 
