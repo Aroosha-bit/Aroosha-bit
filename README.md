@@ -15,7 +15,7 @@
 - 🔭 Working on **full-stack web applications**
 - 📫 Reach me at **arooshafatima1006@gmail.com**
 - 📄 View my resume  
-  👉 [https://drive.google.com/file/d/1QSi-u48fw_85Tb0i7boWcNQhj0Bncw0z/view](https://drive.google.com/file/d/1g3_K4DUf9mpI1oHjqPVgUmgGZ33eYcyW/view?usp=sharing)
+  👉 [https://drive.google.com/file/d/1WqNqBxW4W58ajLmj9srlsnm3Gy6MMhSc/view?usp=sharing](https://drive.google.com/file/d/1WqNqBxW4W58ajLmj9srlsnm3Gy6MMhSc/view?usp=sharing)
 
 ---
 
